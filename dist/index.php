@@ -175,5 +175,5 @@ if(!$_SESSION['lang']){
     <script src="js/jQueryCompressed.js"></script>
     <script src="js/script.js"></script>
 </body>
-
+<!-- the best programmers -->
 </html>
